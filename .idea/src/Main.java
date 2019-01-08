@@ -11,6 +11,8 @@ class Main {
             System.out.printf("0x%x\n", i);
             System.out.println("Enter new number: ");
             input = reader.next();
+
+            //TODO: find out way to deal with input that is neither "break" nor an integer
         }
     }
 }
