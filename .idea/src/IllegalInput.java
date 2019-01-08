@@ -1,0 +1,3 @@
+class IllegalInput extends Exception {
+
+}
